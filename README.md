@@ -1,4 +1,5 @@
-### Hi there 👋
+### Witam 👋
+Nazywam się Barłomiej Kura i obecnie jestem studentem AGH
 
 <!--
 **kurabart/kurabart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
